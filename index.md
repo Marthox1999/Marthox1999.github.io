@@ -3,6 +3,7 @@
 ### Acerca de mi
 
 Hola, soy Mateo (agregar luego cosas acerca de mi)
+<img src="https://scontent.fclo2-1.fna.fbcdn.net/v/t1.0-9/43628278_2202401013168648_6008565436428320768_n.jpg?_nc_cat=102&_nc_ht=scontent.fclo2-1.fna&oh=03402aaaf4e5174e6b6bb8325660f45d&oe=5CF5087D" alt="Mateo Gregory" style="width:100px;height:100px;">
 
 # Habilidades
 que se yo? porque soy requerido? que ofrezco a la industria?
