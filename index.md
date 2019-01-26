@@ -3,7 +3,7 @@
 ### Acerca de mi
 
 Hola, soy Mateo (agregar luego cosas acerca de mi)
-<img src="https://scontent.fclo2-1.fna.fbcdn.net/v/t1.0-9/43628278_2202401013168648_6008565436428320768_n.jpg?_nc_cat=102&_nc_ht=scontent.fclo2-1.fna&oh=03402aaaf4e5174e6b6bb8325660f45d&oe=5CF5087D" alt="Mateo Gregory" style="width:100px;height:100px;">
+<img src="https://scontent.fclo2-1.fna.fbcdn.net/v/t1.0-9/42854512_2183324881742928_7789043652243750912_n.jpg?_nc_cat=102&_nc_ht=scontent.fclo2-1.fna&oh=f7b9ff5cb79a8b5ffa95a49a0d8eda11&oe=5CF5F9BD" alt="Mateo Gregory" style="width:450px;height:450px;">
 
 # Habilidades
 que se yo? porque soy requerido? que ofrezco a la industria?
