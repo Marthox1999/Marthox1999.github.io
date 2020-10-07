@@ -1,10 +1,11 @@
-# Marthox professional profile
+# Mateo's professional profile
 
 ## About me
 
 Hello, my name is Mateo Gregory Jimenez, I am currently at nineth semester of systems engineering at Universidad del Valle. I am working in a medical software called Olimpo, in one of its applications called Kronos.
-
-<img src="https://scontent.fclo2-1.fna.fbcdn.net/v/t1.0-9/42854512_2183324881742928_7789043652243750912_n.jpg?_nc_cat=102&_nc_ht=scontent.fclo2-1.fna&oh=f7b9ff5cb79a8b5ffa95a49a0d8eda11&oe=5CF5F9BD" alt="Mateo Gregory" style="width:450px;height:450px;">
+<div style="text-align:center">
+<img src="https://scontent.fclo2-1.fna.fbcdn.net/v/t1.0-9/118956535_4290534337688628_9123426041119526093_o.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_ohc=ldAQu94VYkYAX_daopB&_nc_ht=scontent.fclo2-1.fna&oh=5b2dbc40ee855c398a75f191770c7918&oe=5FA39BF1" alt="Mateo Gregory" style="width:250px;height:250px;">
+</div>
 
 ## Skills
 
@@ -28,14 +29,18 @@ Currently, I know the area of image processing, especially on medical images. I 
 
 ## Experience
 
-Apart from working on basic academic projects i get into the development of Kronos.
+Apart from working on basic academic projects (which will be shown later) i am part of the development of Kronos.
 
 ## Current Projects
 
 * [Olimpo](https://github.com/orgs/MCV-Univalle/teams/olimpo)
   * [Kronos](https://github.com/MCV-Univalle/kronos)
 
-## Projects
+## Previous Projects
+
+### Complexity and optimization
+
+* [SAT_reductor](https://github.com/Marthox1999/SAT_reductor)
 
 ### Image Processing
 
@@ -61,17 +66,18 @@ Apart from working on basic academic projects i get into the development of Kron
 
 * [VBox_Rest_API](https://github.com/Marthox1999/VBoxRESTAPI)
 
-## Información de contacto
+## Contact Information
 
-Email: mateo.gregory@correounivalle.edu.co
+Email: mateo.gregory@correounivalle.edu.co; magremenez@gmail.com\
+Twitter: [@MarthoxGregory](https://twitter.com/MarthoxGregory) \
+Facebook: [Mateo Gregory Jimenez]([VBox_Rest_API](https://github.com/Marthox1999/VBoxRESTAPI)) \
+Github: [Marthox1999](https://github.com/Marthox1999) \
+Instagram: [@magremenez](https://www.instagram.com/magremenez/)
 
 ## Extras
 
-se pueden poner interese adicionaes como si has trabajado en open source, has dado charlas, participado
-en talleres, la educacion, blogs adicionales, voluntariados, etc
-
-## Donde enlazar tu perfil
-
-puedes usar tus redes sociales para conectarlas todas entre si, y tambien para conectar tus paginas web.
-Por ejemplo puedes poner los enlaces de tu pagina de facebook, twitter el link de tu blog en tu pagina de
-instagram y asi en todos los lugares donde te puedan contactar y conocer.
+* Univalle Academic accompaniment monitor
+* Univalle custom accompaniment monitor
+* Participating on "Pioneras-Dev" gamification workshow by [Edwin Gamboa](https://github.com/edwingamboa)
+* Work on writing an academic paper with [Valeria Rivera](https://github.com/Valeriarm), [Emily Carvajal](https://github.com/emyesme), and [Jose Bernal]()
+* Assistant to the 13 Colombian Congress of computing
