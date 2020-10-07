@@ -2,7 +2,9 @@
 
 ## About me
 
-Hello, my name is Mateo Gregory Jimenez, I am currently at nineth semester of systems engineering at Universidad del Valle. I am working in a medical software called Olimpo, in one of its applications called Kronos.
+Hello, my name is Mateo Gregory Jimenez. I was born in "Santiago de Cali, Colombia" on july 2, 1999. \
+ I am currently at nineth semester of systems engineering at Universidad del Valle. I am working in a medical software called Olimpo, in one of its applications called Kronos.
+
 <div style="text-align:center">
 <img src="https://scontent.fclo2-1.fna.fbcdn.net/v/t1.0-9/118956535_4290534337688628_9123426041119526093_o.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_ohc=ldAQu94VYkYAX_daopB&_nc_ht=scontent.fclo2-1.fna&oh=5b2dbc40ee855c398a75f191770c7918&oe=5FA39BF1" alt="Mateo Gregory" style="width:250px;height:250px;">
 </div>
@@ -19,13 +21,15 @@ Currently, I know the area of image processing, especially on medical images. I 
 4. Java
 5. HTML
 6. CSS
+7. Markdown
 
 ## Technologies
 
 1. Django
 2. Django REST framework
-3. Node
-4. React
+3. Jupyter notebooks
+4. Node
+5. React
 
 ## Experience
 
@@ -68,7 +72,8 @@ Apart from working on basic academic projects (which will be shown later) i am p
 
 ## Contact Information
 
-Email: mateo.gregory@correounivalle.edu.co; magremenez@gmail.com\
+Academic Email: [mateo.gregory@correounivalle.edu.co](mateo.gregory@correounivalle.edu.co)\
+Personal Email: [magremenez@gmail.com](magremenez@gmail.com)\
 Twitter: [@MarthoxGregory](https://twitter.com/MarthoxGregory) \
 Facebook: [Mateo Gregory Jimenez]([VBox_Rest_API](https://github.com/Marthox1999/VBoxRESTAPI)) \
 Github: [Marthox1999](https://github.com/Marthox1999) \
