@@ -6,7 +6,7 @@ Hello, my name is Mateo Gregory Jimenez. I was born in "Santiago de Cali, Colomb
  I am currently at nineth semester of systems engineering at Universidad del Valle. I am working in a medical software called Olimpo, in one of its applications called Kronos.
 
 <div style="text-align:center">
-<img src="https://scontent.fclo2-1.fna.fbcdn.net/v/t1.0-9/118956535_4290534337688628_9123426041119526093_o.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_ohc=ldAQu94VYkYAX_daopB&_nc_ht=scontent.fclo2-1.fna&oh=5b2dbc40ee855c398a75f191770c7918&oe=5FA39BF1" alt="Mateo Gregory" style="width:250px;height:250px;">
+<img src="https://scontent.fclo3-1.fna.fbcdn.net/v/t1.0-9/118956535_4290534337688628_9123426041119526093_o.jpg?_nc_cat=106&ccb=2&_nc_sid=09cbfe&_nc_ohc=dayywbYeNEgAX-8Vn8D&_nc_ht=scontent.fclo3-1.fna&oh=33de49f305877cd1015f5e8c096c25ee&oe=5FE6D871" alt="Mateo Gregory" style="width:250px;height:250px;">
 </div>
 
 ## Skills
@@ -14,22 +14,22 @@ Hello, my name is Mateo Gregory Jimenez. I was born in "Santiago de Cali, Colomb
 Currently, I know the area of image processing, especially on medical images. I have also some knoledge on GUI design, following the User-centered design process and UX.
 
 ## Programming laguages
-
-1. Python
-2. JavaScript
+The (*) before each language means i use them recently
+1. *Python
+2. *JavaScript
 3. C++
 4. Java
-5. HTML
+5. *HTML
 6. CSS
 7. Markdown
 
 ## Technologies
-
+The (*) before each technology means i use them recently
 1. Django
 2. Django REST framework
 3. Jupyter notebooks
 4. Node
-5. React
+5. *React
 
 ## Experience
 
@@ -45,6 +45,7 @@ Apart from working on basic academic projects (which will be shown later) i am p
 ### Complexity and optimization
 
 * [SAT_reductor](https://github.com/Marthox1999/SAT_reductor)
+* [ElectricStation](https://github.com/Marthox1999/ElectricStation)
 
 ### Image Processing
 
